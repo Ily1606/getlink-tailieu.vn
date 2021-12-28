@@ -1,6 +1,6 @@
 <template>
 <div class="md:mt-20 mt-4 container mx-auto">
-    <div class="max-w-7xl">
+    <div class="max-w-7xl mx-auto">
       <div class="text-center font-bold text-green-500 text-7xl">Get link tailieu.vn</div>
       <div>
         <form @submit="submit">
